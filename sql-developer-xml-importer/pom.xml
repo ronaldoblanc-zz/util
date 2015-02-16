@@ -9,6 +9,7 @@
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>sql-developer-xml-importer</artifactId>
+	<version>1.0.FINAL</version>
 	<name>SQL Developer XML Importer</name>
 	<url>http://maven.apache.org</url>
 
